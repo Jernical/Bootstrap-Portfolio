@@ -240,9 +240,9 @@ ul {
 	background-color: #3a8783;
 }
 
-/* MOBILE RESPONSIVE */
+/* ******************* */
 
-@media (min-width: 560px) {
+@media (min-width: 640px) {
 
 		/*TABLET*/
 
@@ -287,9 +287,9 @@ ul {
 
 }
 
-	/* DESKTOP RESPONSIVE */
+	/* ***************** */
 
-@media (min-width: 992px) {
+@media (min-width: 768px) {
 
 	#about {
 		margin: 15px -6% 60px 25%;
@@ -322,6 +322,42 @@ ul {
 
 
 }
+
+	/* ***************** */
+
+	@media (min-width: 980px) {
+
+		#about {
+			margin: 15px -6% 60px 25%;
+			width: 50%;
+		}
+	
+		#contact {
+			width: 50%;
+			margin: 15px -6% 50px 25%;
+	
+		}
+	
+		#portfolio {
+			width: 50%;
+			margin: 15px -6% 60px 25%;
+	
+		}
+	
+		#portfolio li {
+			width: 45%;
+		}
+	
+		#footer {
+			width: 90%;
+			margin-left: 5%;
+			border-radius: 3px;
+			margin-top: 0px;
+			clear: both;
+		}
+	
+	
+	}
 
 
 
