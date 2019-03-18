@@ -59,7 +59,7 @@ a:hover {
     color: #fff;
 }
 
-.clearfix {
+.clearfix footer {
     display: block;
     clear: both;
     margin-bottom: 370px;
@@ -71,7 +71,8 @@ a:hover {
     text-align: center;
     line-height: 70px;
     color: #fff;
-    border-top: 2px solid #4aaaa5;
+	border-top: 2px solid #4aaaa5;
+	clear: both;
 }
 
 /***************************************
@@ -279,7 +280,8 @@ ul {
 	#footer {
 		width: 90%;
 	    margin-left: 5%;
-	    border-radius: 5px;
+		border-radius: 5px;
+		clear: both;
 	}
 
 
@@ -315,6 +317,7 @@ ul {
 	    margin-left: 5%;
 		border-radius: 3px;
 		margin-top: 0px;
+		clear: both;
 	}
 
 
