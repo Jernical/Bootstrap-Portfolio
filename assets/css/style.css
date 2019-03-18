@@ -1,5 +1,5 @@
 body {
-	background-image: url("images/concrete-texture.png");
+	background-image: url(../images/background.jpg);
 	height: 100%;
 }
 
@@ -314,7 +314,7 @@ ul {
 		width: 90%;
 	    margin-left: 5%;
 		border-radius: 3px;
-		margin-top: 77px;
+		margin-top: 0px;
 	}
 
 
